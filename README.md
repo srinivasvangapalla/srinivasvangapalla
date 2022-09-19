@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @srinivasvangapalla
-- 👀 I’m interested in python programming, data analysis, web3, blockchain, data science and cryptocurrency.
-- 🌱 I’m currently learning python and data analysis.
-- 💞️ I’m looking to collaborate on python programming.
+- 👀 I’m interested in python programming, web3, blockchain, data, cloud and cryptocurrency.
+- 🌱 I’m currently learning python and automation.
+- 💞️ I’m looking to collaborate on python, web3 and cloud projects.
 - 📫 How to reach me : you can reach me on srinivasfb0018@gmail.com
 - i also love content writing .
 
